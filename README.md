@@ -49,3 +49,8 @@ The project is splited into five parts and it was implemented by using <b>Python
 ```
 5. Modeling LDA (Latent Dirichlet Allocation)
 ```
+```
+6.  Beat the Benchmark
+    ● Optimizing data even more
+    ● Classification report for Random Forest Classifier with Word Embeddings
+```
